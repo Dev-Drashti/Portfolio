@@ -80,6 +80,7 @@ const ProjectCard = ({
               className="text-silver sm:text-[14px] text-[12px] 
               max-w-3xl sm:leading-[24px] leading-[18px]
               font-poppins tracking-[1px]"
+              style={{ display: "flex", justifyContent: "center" }}
             >
               {description}
             </p>
